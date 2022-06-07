@@ -1,4 +1,4 @@
-def testCall(name)
+def call(name)
 {
   echo "Hello ${name}"
 }

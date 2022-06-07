@@ -1,4 +1,4 @@
 def testCall(name)
 {
-echo "Hello "+name+""
+  echo "Hello ${name}"
 }
